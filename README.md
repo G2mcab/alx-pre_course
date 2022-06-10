@@ -1,1 +1,1 @@
-My first readme
+Read me for alx-precourse codes
